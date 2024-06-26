@@ -5,3 +5,4 @@ Many of the projects in this repository will be used for learning python and set
 
 **Table of Contents**
 1. Python Basics (syntax, functions, loops, list, control flow)
+   A. Frida Kahloda list project
