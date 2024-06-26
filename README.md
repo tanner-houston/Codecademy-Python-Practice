@@ -1,5 +1,7 @@
-# python-test
-Test git connection between python and jupyter labs
+# Python Exercises
+This repository will be used to keep track of projects completed from the Codecademy Machine Learning career path. 
 
-added to the READ ME in jupyter labs. 
+Many of the projects in this repository will be used for learning python and setting up a git version control workflow. 
 
+**Table of Contents**
+1. Python Basics (syntax, functions, loops, list, control flow)
