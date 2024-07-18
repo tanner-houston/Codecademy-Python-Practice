@@ -9,3 +9,6 @@ Many of the projects in this repository will be used for learning python and set
 2. Strings and String Methods\
        A. Medical Insurance Project\
        B. Coded Correspondence
+3. Dictionaries\
+       A. Hurricane Analysis
+   
