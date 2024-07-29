@@ -10,5 +10,7 @@ Many of the projects in this repository will be used for learning python and set
        A. Medical Insurance Project\
        B. Coded Correspondence
 3. Dictionaries\
-       A. Hurricane Analysis
+       A. Hurricane Analysis\
+       B. Medical Insurance Dictionary Project
+   
    
