@@ -14,6 +14,9 @@ Many of the projects in this repository will be used for learning python and set
        B. Medical Insurance Dictionary Project
 4. Regression Basics in Python\
        A. Reggie's Linear Regression
+5. Medical Insurance Portfolio Project
+6. Python Pandas for Data Science\
+       A. 
 
    
    
